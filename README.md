@@ -1,5 +1,5 @@
 <H1>Tesi di Laurea Triennale</H1>
-In questa repository è possibile visionare il progetto svolto nell'ambito del lavoro di Tesi per il corso di Laurea Triennale in Informatica presso l'università degli studi di Napoli Federico II. L'applicativo presentaro è stato progettato e implementato nell'ambito del Tirocinio Curriculare svolto presso Alten Italia S.P.A., multinazionale che opera nell'ambito della consulenza ICT che ha accettato la collaborazione con l'università per la realizzazione di tale progetto.
+In questo repository è possibile visionare il progetto svolto nell'ambito del lavoro di Tesi per il corso di Laurea Triennale in Informatica presso l'Università degli studi di Napoli Federico II. L'applicativo è stato progettato e implementato nell'ambito del Tirocinio Curricolare svolto presso Alten Italia S.p.A., multinazionale che opera nell'ambito della consulenza ICT.
 
 <br><br>
 <h1>Descrizione Progetto</h1>
@@ -44,11 +44,11 @@ Le tecnologie utilizzate sono:
 Il testing è stato effettuato con jUnit e Mockito, seguendo la metodologia SECT per il testing Black Box e Branch Coverage per il testing White Box.
 
 # Scarica e Leggi la Tesi 
-Il progetto in questione è stato svolto nell'ambito di un tirocinio curricolare presso una importante multinazionale nel settore ICT, in collaborazione con l'Università degli studi di Napoli Federico II.
+Il progetto in questione è stato svolto nell'ambito di un tirocinio presso Alten Italia S.p.A. in collaborazione con l'Università degli studi di Napoli Federico II.
 <br><br>
 
-Sia il tirocinio che il Progetto erano parte integrante del lavoro di stesura di Tesi  necessaria per conseguire il titolo accademico. Per tanto, in allegato è possibile accedere e visualizzare la Tesi di Laurea Triennale di cui questo progetto fa parte.
+Il tirocinio e il Progetto erano parte integrante del lavoro di stesura di Tesi  necessaria per conseguire il titolo accademico. Per tanto, in allegato è possibile accedere e visualizzare la Tesi di Laurea Triennale di cui questo progetto fa parte.
 
  
 <br><br>
-<h4><i>Vedi <a href="https://drive.google.com/file/d/1q-7YKrnldXI-SRMjaBw5asE6Wo-0DHRC/view?usp=sharing">Tesi di Laurea</a></i></h4>
+<h4><i>Puoi leggere qui la <a href="https://drive.google.com/file/d/1q-7YKrnldXI-SRMjaBw5asE6Wo-0DHRC/view?usp=sharing">Tesi di Laurea</a></i></h4>
