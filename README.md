@@ -1,5 +1,5 @@
 <H1>Tesi di Laurea Triennale</H1>
-In questa repository è possibile visionare il progetto svolto nell'ambito del lavoro di Tesi per il corso di Laurea Triennale in Informatica presso l'università degli studi di Napoli Federico II. Il progetto è stato progettato e implementato nell'ambito del Tirocinio Curriculare svolto presso Alten Italia S.P.A., multinazionale che opera nell'ambito della consulenza ICT che ha accettato la collaborazione con l'università per la realizzazione di tale progetto.
+In questa repository è possibile visionare il progetto svolto nell'ambito del lavoro di Tesi per il corso di Laurea Triennale in Informatica presso l'università degli studi di Napoli Federico II. L'applicativo presentaro è stato progettato e implementato nell'ambito del Tirocinio Curriculare svolto presso Alten Italia S.P.A., multinazionale che opera nell'ambito della consulenza ICT che ha accettato la collaborazione con l'università per la realizzazione di tale progetto.
 
 <br><br>
 <h1>Descrizione Progetto</h1>
