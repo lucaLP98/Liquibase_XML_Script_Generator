@@ -1,3 +1,7 @@
+<H1>Tesi di Laurea Triennale</H1>
+in questa repository è possibile visionare il progetto svolto nell'ambito del lavoro di Tesi per il corso di Laurea Triennale in Informatica presso l'università degli studi di Napoli Federico II. Il progetto è stato progettato e implementato nell'ambito del Tirocinio Curriculare svolto presso Alten Italia S.P.A., multinazionale che opera nell'ambito della consulenza ICT che ha accettato la collaborazione con l'università per la realizzazione di tale progetto.
+
+<br><br>
 <h1>Descrizione Progetto</h1>
 Tool di supporto alla programmazione di Liquibase per la gestione delle evoluzioni su DB relazionale in ambito di applicativi Java-like.
 Il tool è basato su tecnologie java web. Il suo obiettivo è generare script Liquibase XML per operazioni sul DB da lanciare in fase di deployment su Jenkins per tenere aggiornato anche il DB oltre al codice, quando si rilascia una nuova versione di un’applicazione.
@@ -39,7 +43,12 @@ Le tecnologie utilizzate sono:
 
 Il testing è stato effettuato con jUnit e Mockito, seguendo la metodologia SECT per il testing Black Box e Branch Coverage per il testing White Box.
 
-# Documentazione
-Il progetto in questione è stato svolto nell'ambito di un tirocinio curricolare presso una importante multinazionale nel settore ICT, in collaborazione con l'Università degli studi di Napoli Federico II. La realizzazione del progetto era finalizzata alla stesura della tesi di laurea triennale presso la medesima univerità, per cui di seguito viene fornito il link alla tesi di laurea completa contenente anche la documentazioone dell'intero applicativo.
+# Tesi di Laurea 
+Il progetto in questione è stato svolto nell'ambito di un tirocinio curricolare presso una importante multinazionale nel settore ICT, in collaborazione con l'Università degli studi di Napoli Federico II.
 <br><br>
-<h4><i>Vedi <a href="https://drive.google.com/file/d/1q-7YKrnldXI-SRMjaBw5asE6Wo-0DHRC/view?usp=sharing">documentazione</a></i></h4>
+
+Sia il tirocinio che il Progetto erano parte integrante del lavoro di stesura di Tesi  necessaria per conseguire il titolo accademico. Per tanto, in allegato è possibile accedere e visualizzare la Tesi di Laurea Triennale di cui questo progetto fa parte.
+
+ 
+<br><br>
+<h4><i>Vedi <a href="https://drive.google.com/file/d/1q-7YKrnldXI-SRMjaBw5asE6Wo-0DHRC/view?usp=sharing">Tesi di Laurea</a></i></h4>
